@@ -1,0 +1,17 @@
+{
+  "id": "East Gate_204,72,117",
+  "name": "East Gate",
+  "icon": "waypoint-normal.png",
+  "x": 204,
+  "y": 72,
+  "z": 117,
+  "r": 202,
+  "g": 22,
+  "b": 23,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

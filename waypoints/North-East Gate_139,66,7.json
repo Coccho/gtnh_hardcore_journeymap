@@ -1,0 +1,17 @@
+{
+  "id": "North-East Gate_139,66,7",
+  "name": "North-East Gate",
+  "icon": "waypoint-normal.png",
+  "x": 139,
+  "y": 66,
+  "z": 7,
+  "r": 189,
+  "g": 173,
+  "b": 220,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}
