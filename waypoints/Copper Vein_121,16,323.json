@@ -1,0 +1,17 @@
+{
+  "id": "Copper Vein_121,16,323",
+  "name": "Copper Vein",
+  "icon": "waypoint-normal.png",
+  "x": 121,
+  "y": 16,
+  "z": 323,
+  "r": 0,
+  "g": 159,
+  "b": 17,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

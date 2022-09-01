@@ -1,0 +1,17 @@
+{
+  "id": "North Shelter_243,68,-1475",
+  "name": "North Shelter",
+  "icon": "waypoint-normal.png",
+  "x": 243,
+  "y": 68,
+  "z": -1475,
+  "r": 221,
+  "g": 87,
+  "b": 202,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

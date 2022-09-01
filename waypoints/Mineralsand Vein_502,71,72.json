@@ -1,0 +1,17 @@
+{
+  "id": "Mineralsand Vein_502,71,72",
+  "name": "Mineralsand Vein",
+  "icon": "waypoint-normal.png",
+  "x": 502,
+  "y": 71,
+  "z": 72,
+  "r": 9,
+  "g": 12,
+  "b": 164,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

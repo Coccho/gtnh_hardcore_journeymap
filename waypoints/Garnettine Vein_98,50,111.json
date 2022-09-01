@@ -1,0 +1,17 @@
+{
+  "id": "Garnettine Vein_98,50,111",
+  "name": "Garnettine Vein",
+  "icon": "waypoint-normal.png",
+  "x": 98,
+  "y": 50,
+  "z": 111,
+  "r": 110,
+  "g": 75,
+  "b": 61,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}
