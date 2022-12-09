@@ -1,0 +1,17 @@
+{
+  "id": "Horses_-1058,87,2082",
+  "name": "Horses",
+  "icon": "waypoint-normal.png",
+  "x": -1058,
+  "y": 87,
+  "z": 2082,
+  "r": 76,
+  "g": 173,
+  "b": 30,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}
