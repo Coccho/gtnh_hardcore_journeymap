@@ -1,0 +1,17 @@
+{
+  "id": "Electrotine Vein_-272,15,-32",
+  "name": "Electrotine Vein",
+  "icon": "waypoint-normal.png",
+  "x": -272,
+  "y": 15,
+  "z": -32,
+  "r": 160,
+  "g": 204,
+  "b": 215,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    -1
+  ]
+}

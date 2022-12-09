@@ -1,0 +1,17 @@
+{
+  "id": "Iron Vein 2_-1576,15,-32",
+  "name": "Iron Vein 2",
+  "icon": "waypoint-normal.png",
+  "x": -1576,
+  "y": 15,
+  "z": -32,
+  "r": 101,
+  "g": 63,
+  "b": 103,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    -1
+  ]
+}
