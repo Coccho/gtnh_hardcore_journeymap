@@ -1,0 +1,17 @@
+{
+  "id": "Copper Hut 1_403,70,74",
+  "name": "Copper Hut 1",
+  "icon": "waypoint-normal.png",
+  "x": 403,
+  "y": 70,
+  "z": 74,
+  "r": 92,
+  "g": 221,
+  "b": 230,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}
