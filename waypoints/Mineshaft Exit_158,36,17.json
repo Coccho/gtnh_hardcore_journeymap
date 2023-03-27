@@ -1,0 +1,17 @@
+{
+  "id": "Mineshaft Exit_158,36,17",
+  "name": "Mineshaft Exit",
+  "icon": "waypoint-normal.png",
+  "x": 158,
+  "y": 36,
+  "z": 17,
+  "r": 52,
+  "g": 35,
+  "b": 105,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}
