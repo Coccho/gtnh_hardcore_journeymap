@@ -1,0 +1,17 @@
+{
+  "id": "Cave_220,60,130",
+  "name": "Cave",
+  "icon": "waypoint-normal.png",
+  "x": 220,
+  "y": 60,
+  "z": 130,
+  "r": 6,
+  "g": 241,
+  "b": 46,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}
