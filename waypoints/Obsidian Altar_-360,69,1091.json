@@ -1,0 +1,17 @@
+{
+  "id": "Obsidian Altar_-360,69,1091",
+  "name": "Obsidian Altar",
+  "icon": "waypoint-normal.png",
+  "x": -360,
+  "y": 69,
+  "z": 1091,
+  "r": 158,
+  "g": 74,
+  "b": 69,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

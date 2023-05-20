@@ -1,0 +1,17 @@
+{
+  "id": "Minigame_-1639,105,490",
+  "name": "Minigame",
+  "icon": "waypoint-normal.png",
+  "x": -1639,
+  "y": 105,
+  "z": 490,
+  "r": 173,
+  "g": 127,
+  "b": 82,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}
