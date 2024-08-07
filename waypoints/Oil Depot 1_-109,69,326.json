@@ -1,0 +1,17 @@
+{
+  "id": "Oil Depot 1_-109,69,326",
+  "name": "Oil Depot 1",
+  "icon": "waypoint-normal.png",
+  "x": -109,
+  "y": 69,
+  "z": 326,
+  "r": 68,
+  "g": 2,
+  "b": 114,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

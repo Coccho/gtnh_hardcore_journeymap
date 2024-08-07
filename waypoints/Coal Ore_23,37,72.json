@@ -1,0 +1,17 @@
+{
+  "id": "Coal Ore_23,37,72",
+  "name": "Coal Ore",
+  "icon": "waypoint-normal.png",
+  "x": 23,
+  "y": 37,
+  "z": 72,
+  "r": 43,
+  "g": 69,
+  "b": 100,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    7
+  ]
+}
