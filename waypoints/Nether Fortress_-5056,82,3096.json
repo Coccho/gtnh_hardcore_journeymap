@@ -1,0 +1,17 @@
+{
+  "id": "Nether Fortress_-5056,82,3096",
+  "name": "Nether Fortress",
+  "icon": "waypoint-normal.png",
+  "x": -5056,
+  "y": 82,
+  "z": 3096,
+  "r": 28,
+  "g": 245,
+  "b": 226,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    -1
+  ]
+}

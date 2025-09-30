@@ -1,0 +1,17 @@
+{
+  "id": "Oil Rig 1_-263,75,351",
+  "name": "Oil Rig 1",
+  "icon": "waypoint-normal.png",
+  "x": -263,
+  "y": 75,
+  "z": 351,
+  "r": 0,
+  "g": 148,
+  "b": 68,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}
