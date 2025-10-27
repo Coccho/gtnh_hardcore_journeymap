@@ -1,0 +1,17 @@
+{
+  "id": "Moon Base_-96,60,-88",
+  "name": "Moon Base",
+  "icon": "waypoint-normal.png",
+  "x": -96,
+  "y": 60,
+  "z": -88,
+  "r": 3,
+  "g": 146,
+  "b": 206,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    28
+  ]
+}

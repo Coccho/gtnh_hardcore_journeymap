@@ -1,0 +1,17 @@
+{
+  "id": "Moon Dungeon Entrance #2_-516,26,-821",
+  "name": "Moon Dungeon Entrance #2",
+  "icon": "waypoint-normal.png",
+  "x": -516,
+  "y": 26,
+  "z": -821,
+  "r": 217,
+  "g": 113,
+  "b": 217,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    28
+  ]
+}
